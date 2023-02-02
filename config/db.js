@@ -9,7 +9,8 @@ function connectDB() {
     }).catch(err => {
         console.log('Connection failed');
     });
-}
+} 
+//connecting mongo done
 
 // mIAY0a6u1ByJsWWZ
 
