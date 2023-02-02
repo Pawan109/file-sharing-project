@@ -9,8 +9,8 @@ module.exports = async ({ from, to, subject, text, html}) => {
                 pass: process.env.MAIL_PASSWORD, // generated ethereal password
             },
         });
-
-        // send mail with defined transport object
+//SMTP use kiay 
+        ///mail with defined transport object
     let info = await transporter.sendMail({
         from: `inShare <${from}>`, // sender address
         to: to, // list of receivers
