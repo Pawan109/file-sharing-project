@@ -14,5 +14,5 @@ router.get('/:uuid', async (req, res) => {
     }
 });
 
-
+//exporting everything now , so that its  available for any other request 
 module.exports = router;
