@@ -3,3 +3,4 @@ uploads/*
 !uploads/.gitkeep
 node_modules
 .DS_Store
+//git mein don't upload jo bhi tum upload karoge
