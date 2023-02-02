@@ -17,7 +17,7 @@
     "nodemailer": "^6.7.6",
     "uuid": "^8.3.2"
   },
-  "devDependencies": {
+  "devDependencies": { //
     "nodemon": "^2.0.4"
   }
 }
