@@ -1,5 +1,6 @@
 module.exports = ({emailFrom, downloadLink, size, expires}) => {
     return `
+    //email template taken from open source
         <!doctype html>
             <html>
             <head>
