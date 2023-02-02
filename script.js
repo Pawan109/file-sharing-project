@@ -17,7 +17,7 @@ async function fetchData() {
                 console.log(`error while deleting file ${err} `);
             }
         }
-    }
+    }//scripts
     console.log('Job done!');
 }
 
